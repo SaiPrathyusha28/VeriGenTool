@@ -1,0 +1,5 @@
+pandas
+nltk
+openpyxl
+streamlit
+matplotlib
